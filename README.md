@@ -19,7 +19,7 @@ As their names suggest, each of these methods will set the passed variables to t
 variables of the class. All of these methods are void and private methods so that they can’t be accesses
 unless they are called by its own class.
 
-**4. Setter:** _setElements_
+4. **Setter:** _setElements_
 The setElements method is only used when the Constructor is invoked. Whenever the new
 object created, the constructor will call this Setter method to get the elements of the Array of the created
 object.
@@ -30,21 +30,21 @@ Dimension of the array whenever they are called.
 
 6. **Operation Methods**
 
-- _matrixAddition:_ This method is used to Add two Matrices. The method accepts
+  - _matrixAddition:_ This method is used to Add two Matrices. The method accepts
 two objects of MyMatrix type as a parameter. Once the operation is Successful, the
 method will print the newly created array, else, it will Print an Error Message.
 
-- _matrixSubtraction:_ This method is used to Subtract two Matrices. The method
+  - _matrixSubtraction:_ This method is used to Subtract two Matrices. The method
 accepts two objects of MyMatrix type as a parameter. Once the operation is
 Successful, the method will print the newly created array, else, it will Print an Error
 Message.
 
-- _matrixMultiplication:_ This method is used to Multiple two Matrices as its name
+  - _matrixMultiplication:_ This method is used to Multiple two Matrices as its name
 suggests. The method accepts two objects of MyMatrix type as a parameter. Once
 the operation is Successful, the method will print the newly created array, else, it
 will Print an error Message.
 
-- _matrixDivision:_ This method is used to Divide two Matrices. The method accepts
+  - _matrixDivision:_ This method is used to Divide two Matrices. The method accepts
 two objects of MyMatrix type as a parameter. In Theory the Division is not really a
 division but rather Multiplication of one matrix with the Inverse of the second
 matrix. So, what I did is, import the Matrix Library called JAMA and used its, det(),
