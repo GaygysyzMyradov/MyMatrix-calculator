@@ -70,4 +70,32 @@ class.
 
 ***
 
+## _Demo_
+- Addition (Success):
+![Addition](https://user-images.githubusercontent.com/74715900/219926545-94c1cf18-4775-44dc-9c19-0d00c677329d.png)
+
+- Addition (Error):
+![Addition F](https://user-images.githubusercontent.com/74715900/219926696-e4f98e2e-6e4d-4715-bd2c-4d25bca5a83e.png)
+
+- Subtraction (Success):
+![subtraction](https://user-images.githubusercontent.com/74715900/219926762-9f4fcb4e-e7ed-4bca-973b-e7aaeb5619f6.png)
+
+- Subtraction (Error): 
+![subtraction F](https://user-images.githubusercontent.com/74715900/219926796-2cef38d1-3fa4-4381-8473-7c5c97f1cce2.png)
+
+- Multiplication (Success):
+![Multiplication](https://user-images.githubusercontent.com/74715900/219926837-89c08351-416f-494f-ba59-af906cef2693.png)
+
+- Multiplication (Error):
+![Multiplication F](https://user-images.githubusercontent.com/74715900/219926877-7449c0c1-d7d3-42ed-9a7e-f432917c5435.png)
+
+- Division (Success):
+![Division](https://user-images.githubusercontent.com/74715900/219926961-c49ea947-0d74-4cd6-9146-a0f37c2eaa2d.png)
+
+- Division (Error):
+![DivisionF](https://user-images.githubusercontent.com/74715900/219926933-e1a00f6a-ae97-48e6-b6ce-0d2d3e8137ea.png)
+
+
+***
+
 If you have suggestions, please feel free to contribute, looking forward to practice and learn more.
