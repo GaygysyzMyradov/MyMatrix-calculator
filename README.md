@@ -60,6 +60,12 @@ method is used to get the Row and Column of the Object Array, later on which are
 class.
 
 ***
+## UML Diagrams
+![image](https://user-images.githubusercontent.com/74715900/219927717-9ac4b097-195f-400e-bdaf-689b68439fd4.png)
+![image](https://user-images.githubusercontent.com/74715900/219927848-2737242a-e21e-490e-bca9-ff4ef4d029c3.png)
+
+
+***
 
 ## Build Instructions
 
